@@ -3,10 +3,10 @@
  *
  *  Created on: Nov 9, 2014
  *      Author: John Convertino
- *		
+ *
  *		Sets up in single conversion mode to sample any analog input selected by getAnalog.
  *
- *  
+ *
     Copyright (C) 2014 John Convertino
 
     This program is free software; you can redistribute it and/or modify
@@ -31,7 +31,7 @@
 
 #include <inttypes.h>
 
-void initializeAnalog();
+void initAnalog();
 
 uint16_t getAnalog(uint8_t);
 
