@@ -33,6 +33,6 @@
 
 void initAnalog();
 
-uint16_t getAnalog(uint8_t);
+uint16_t getAnalog(uint8_t channel);
 
 #endif /* ANALOGSIMPLE_H_ */
