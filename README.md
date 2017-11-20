@@ -9,6 +9,7 @@ This is a simple analog interface. Which will allow you to read data from the AD
 #include <inttypes.h>
 #include <avr/common.h>
 #include <avr/io.h>
+#include "analogSimple.h"
 
 
 int main(void)
